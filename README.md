@@ -1,4 +1,4 @@
-Certainly! Here are the revised README templates without the "Usage" part:
+
 
 ### Threaded ABC Algorithm
 
